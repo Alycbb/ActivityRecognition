@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ActivityRecognition</string>
+    <string name="walking">walking</string>
+    <string name="vehicle">vehicle</string>
+    <string name="tilting">tilting</string>
+    <string name="bicycle">bicycle</string>
+    <string name="running">running</string>
+    <string name="still">still</string>
+    <string name="unknown">unknown</string>
+    <string name="unidentifiable">Unidentifiable</string>
+
+    <string name="google_maps_API_key">AIzaSyAhMc1Ei2fHHirNeFyKihLubCQKQKb_dW8</string>
+</resources>
